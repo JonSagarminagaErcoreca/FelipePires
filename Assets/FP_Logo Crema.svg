@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 606.28 219.42">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: IBMPlexSerif-Medium, 'IBM Plex Serif';
+        font-size: 77.16px;
+        font-weight: 500;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #f2efd8;
+      }
+
+      .cls-4 {
+        letter-spacing: .2em;
+      }
+
+      .cls-5 {
+        letter-spacing: .76em;
+      }
+
+      .cls-6 {
+        letter-spacing: .8em;
+      }
+
+      .cls-7 {
+        letter-spacing: .2em;
+      }
+
+      .cls-2 {
+        font-family: IBMPlexSans-Thin, 'IBM Plex Sans';
+        font-size: 33.99px;
+        font-weight: 200;
+      }
+
+      .cls-8 {
+        letter-spacing: .79em;
+      }
+
+      .cls-9 {
+        letter-spacing: .16em;
+      }
+
+      .cls-10 {
+        letter-spacing: .84em;
+      }
+
+      .cls-11 {
+        letter-spacing: .8em;
+      }
+
+      .cls-12 {
+        letter-spacing: .21em;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g>
+      <text class="cls-1" transform="translate(0 134.38)"><tspan class="cls-9" x="0" y="0">F</tspan><tspan class="cls-7" x="60.8" y="0">eli</tspan><tspan class="cls-12" x="198.13" y="0">p</tspan><tspan class="cls-4" x="262.17" y="0">e Pires</tspan></text>
+      <text class="cls-2" transform="translate(.1 211.95)"><tspan class="cls-11" x="0" y="0">PI</tspan><tspan class="cls-10" x="87.21" y="0">L</tspan><tspan class="cls-5" x="131.9" y="0">A</tspan><tspan class="cls-11" x="177.95" y="0">TES </tspan><tspan class="cls-8" x="351.41" y="0">S</tspan><tspan class="cls-6" x="396.68" y="0">TUDIO</tspan></text>
+      <path class="cls-3" d="M335.1.52c2.49-.64,4.64-.69,6.46-.14,1.82.55,3.35,2.1,4.6,4.66l11.51,20.4h-5.38l-10.03-17.97c-.94-1.69-2.91-2.53-4.78-2.04l-49.69,12.95,3.36,7.07h-5.19l-2.82-5.76-4.36,1.21c-2.55.67-19.37,4.54-21.22,4.55-3.27.02-4.04-2.42-5.32-5.03l-3.62-7.4h5.29l3.07,6.27c.47.96,1.56,1.46,2.6,1.19L335.1.52Z"/>
+    </g>
+  </g>
+</svg>
